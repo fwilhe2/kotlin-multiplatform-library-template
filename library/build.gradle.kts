@@ -11,6 +11,10 @@ version = "1.0.0"
 kotlin {
     jvm()
 
+    js {
+        nodejs()
+    }
+
     linuxX64()
 
     sourceSets {
