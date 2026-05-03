@@ -3,7 +3,7 @@ package io.github.kotlin.fibonacci
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
-class JvmFibiTest {
+class JsFibiTest {
 
     @Test
     fun `test 3rd element`() {
